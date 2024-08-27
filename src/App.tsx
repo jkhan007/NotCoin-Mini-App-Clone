@@ -59,7 +59,7 @@ function App() {
           <div className="w-full cursor-pointer">
             <div className="bg-[#1f1f1f] text-center py-2 rounded-xl backdrop-blur-md">
               <a href="https://t.me/SingleDevelopers">
-                <p className="text-lg">Join squad <Arrow size={18} className="ml-0 mb-1 inline-block" /></p>
+                <p className="text-lg">Join squad v1.0 <Arrow size={18} className="ml-0 mb-1 inline-block" /></p>
               </a>
             </div>
           </div>
